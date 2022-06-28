@@ -29,4 +29,4 @@ jobs:
       - name: Run a multi-line script
         run: |
            chmod +x .github/workflows/m.sh
-           . .github/workflows/m.sh
+           . .github/workflows/qualiti-script.sh
